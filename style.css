@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    
+}
+h1:hover{
+    opacity: 0.5;
+color: rgb(230, 144, 32);
+}
+.mustafa{
+    background-color: brown;
+    height: 40.9rem;
+    margin-top: -21px;
+    
+}
+img{
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+img:hover{
+    opacity: 0.5;
+    color: yellow;
+    
+}
+.a{
+    background-color: blue;
+height: 70px;
+width: 70px;
+transition: width 5s , transform 2s;
+
+}
+
+.a:hover{
+    width: 100px;
+    transform: rotate(180deg);    
+}
+.s{
+    background-color: yellowgreen;
+    height: 70px;
+    width: 70px;
+    transition: width 7s , transform 5s;
+}
+.s:hover{
+    width: 100px;
+    transform: rotate(180deg);
+}
+.f{
+    background-color: violet;
+    height: 200px;
+    width: 30px;
+transition: width 8s , transform 6s;
+}
+.f:hover{
+    width: 150px;
+transform: rotate(180deg);
+}
